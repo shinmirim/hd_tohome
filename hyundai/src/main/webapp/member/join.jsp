@@ -58,10 +58,10 @@ String gender = "";
 </head>
 <body>
 	<jsp:include page="../Common/Link.jsp" />
-	<div id="wrap" class="main" style="width:500px; margin:auto;">
+	<div id="wrap" class="main" style="width: 500px; margin: auto;">
 		<article>
 
-			<h2>Join Us</h2>
+			<h2 style="margin-left: 540px;">Join Us</h2>
 			<form id="join" action="TohomeServlet?command=join" method="post"
 				name="formm">
 				<fieldset>
